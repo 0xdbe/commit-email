@@ -1,5 +1,3 @@
 # commit-email
 
-test signed commit
-
-testytjdfqss
+Ready for spoofing commit
